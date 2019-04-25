@@ -1,0 +1,19 @@
+DECLARATION 
+TOSCA Editor - Web Application Wireframe Challenge
+
+
+FONT
+Roboto
+
+
+ICONS
+all icons from axure
+https://www.axure.com/support/download-widget-libraries
+
+STOCK PHOTO
+I don't use any stock photo
+
+
+
+
+

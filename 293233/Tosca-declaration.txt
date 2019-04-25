@@ -1,0 +1,25 @@
+Declaration Files
+Challenge Name: “TOSCA Editor - Web Application Wireframe Challenge
+”
+https://www.topcoder.com/challenges/30085646
+Notes
+My design was based onmy interpretation of the project brief
+
+Marvelapp
+Desktop: N/A
+Tablet: N/A
+Mobile: N/A
+
+Axure : Available
+
+
+Fonts
+Font Name: Arial
+Font URL: Axure default Library
+
+
+
+
+Icons
+Icon Name: All Icon from Axure Library, I don't know the name.
+Icon URL: All Icon from Axure Library, I don't know the url.
